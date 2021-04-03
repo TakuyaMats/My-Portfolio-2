@@ -90,6 +90,10 @@ html, body {
   padding: 2rem;
 }
 
+.contact a {
+  font-size: 1.2rem;
+}
+
 .fa-facebook {
   color: #3b5998;
 }
