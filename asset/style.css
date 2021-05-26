@@ -90,6 +90,10 @@ html, body {
   padding: 2rem;
 }
 
+.tech {
+  padding: 1rem;
+}
+
 .contact a {
   font-size: 1.2rem;
 }
